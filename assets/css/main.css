@@ -117,7 +117,7 @@ input, select, textarea {
 
 	body, input, select, textarea {
 		color: #ffffff;
-		font-family: "Source Sans Pro", Helvetica, sans-serif;
+		font-family: "Calibri";
 		font-size: 17pt;
 		font-weight: 300;
 		letter-spacing: 0.025em;
@@ -3474,10 +3474,10 @@ input, select, textarea {
 				}
 
 				#banner > .inner .content p {
-					font-size: 0.7em;
-					font-weight: 600;
+					font-size: 1.0em;
+					font-weight: 1000;
 					letter-spacing: 0.25em;
-					text-transform: uppercase;
+					
 				}
 
 		#banner.major {
